@@ -1,0 +1,22 @@
+# Unity
+/[Tt]emp/
+/[Ll]ibrary/
+/[Oo]bj/
+/sysinfo.txt
+/*.stackdump
+
+# Visual Studio and MonoDevelop
+/.vs/
+[Ee]xported[Oo]bj/
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# Build
+/[Bb]uild/
+/[Bb]uilds/
