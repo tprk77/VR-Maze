@@ -90,7 +90,8 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaIndirect: 2
     m_PVRFilteringAtrousPositionSigmaAO: 1
     m_ShowResolutionOverlay: 1
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000002, guid: dc5e61a0c1815f342a9f9dd10ecba3a9,
+    type: 2}
   m_UseShadowmask: 0
 --- !u!196 &4
 NavMeshSettings:
@@ -24339,8 +24340,8 @@ Transform:
   - {fileID: 1408915807}
   - {fileID: 540604641}
   - {fileID: 1820164351}
-  - {fileID: 1703853677}
   - {fileID: 816922237}
+  - {fileID: 1703853677}
   - {fileID: 135246472}
   - {fileID: 85125137}
   - {fileID: 1210366220}
@@ -25894,7 +25895,7 @@ Transform:
   m_LocalScale: {x: 100.00024, y: 100.00036, z: 100.00046}
   m_Children: []
   m_Father: {fileID: 773987378}
-  m_RootOrder: 33
+  m_RootOrder: 32
   m_LocalEulerAnglesHint: {x: -90.00001, y: 0, z: 0}
 --- !u!65 &816922238
 BoxCollider:
