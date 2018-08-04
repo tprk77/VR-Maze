@@ -17,6 +17,13 @@ functionality, and optimizing the result to run on a smart phone.
 - [Unity LTS Release 2017.4.4][unity_version]
 - [GVR SDK for Unity v1.100.1][gvr_version]
 
+## Screenshots ##
+
+<p align="center">
+  <img src= "Screenshot1.jpg" />
+  <img src= "Screenshot2.jpg" />
+</p>
+
 
 <!-- References -->
 
